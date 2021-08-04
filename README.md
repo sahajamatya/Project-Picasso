@@ -5,7 +5,7 @@ Visit [my website](https://sahajamatya.com/posts/20200103picasso.html) for offic
 Picasso is a personal plotter I built over the first half of my 2019 winter break that operates on the principle of Computer Numerical Control (CNC). It functions on three axes, with two NEMA 17 stepper motors controlling the X and Y axes to navigate the writing apparatus across the designated writing surface and an SG90 Micro Servo Motor allocated to control the Z axis serving to dictate the up and down motions of the writing apparatus. The digital inputs were distributed using an Arduino Uno paired with a CNC Shield. I used two A4988 drivers to manage the stepper motors for the X and Y axes.
 
 <a href = "https://youtu.be/t2eSa6Wmzbo" target = "_blank">Video Demo</a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t2eSa6Wmzbo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Official Project Start Date: December 19, 2019<br/>
 Official Project End Date: January 01, 2020
 
